@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Livvic
+- Font Author: Copyright 2019 The Livvic Project Authors (https://github.com/Fonthausen/Livvic)
+- Font Source: https://fonts.gstatic.com/s/livvic/v14/rnCs-x1S2hzjrlfXbdu6tV3GY_etWWIJ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
